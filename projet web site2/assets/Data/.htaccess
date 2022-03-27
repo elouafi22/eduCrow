@@ -1,0 +1,2 @@
+Options -Indexes
+ErrorDocument 403 "<h1>Vous n'etes pas autorise a acceder a cette page</h1><a href='../creeUnCompte/inscription.php'>Revenir a la page d'inscription</a>"
